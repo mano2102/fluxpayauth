@@ -1,3 +1,4 @@
+package com.fluxpay.auth.service;
 import java.security.Key;
 import java.util.Date;
 
